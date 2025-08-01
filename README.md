@@ -1,2 +1,1 @@
-# TSR-Bug
-TSR Bug Tracker
+To submit a bug report open a new issue
